@@ -1,0 +1,5 @@
+--------------------------------------------------------------------------------
+Notes
+--------------------------------------------------------------------------------
+Entrées manquantes
+L'entrée "Input 8" sur la piste "Arno" n'est pas disponible dans la configuration d'E/S actuelle.
